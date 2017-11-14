@@ -1,0 +1,3 @@
+Expectation: No matter what feature mapping we are using, the MSE of
+parameter estimates should be reduced when we apply active learning 
+strategy. But from plotting it seems that this is not always the case.
